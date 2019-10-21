@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">profile picture</string>
+    <string name="my_desc">Foods i like: Ice cream
+        \n
+        \nHobbies : Badminton, play computer games, and watching movie etc
+        \n
+            \nEducation:
+            \n\tSRJKC Hwa Lian
+    \n\tMentakab
+    \n\tTAR UC
+    \n\tMultimedia University
+    \n
+    \nWorking Experiences:
+    \nRyzen Company Sdn.Bhd
+    </string>
+</resources>
